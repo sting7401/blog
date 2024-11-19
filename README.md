@@ -1,1 +1,1 @@
-# blog
+# sveltekit-poketbase-boilerplate
